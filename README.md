@@ -26,8 +26,8 @@ The recommended way to install guzzle-http-signature is through [Composer](http:
 
         {
             "require": {
-                "guzzle/guzzle": "2.*.*",
-				"dchapkine/guzzle-http-signature": "*"
+                "guzzle/guzzle": "2.*",
+		"dchapkine/guzzle-http-signature": "dev-master"
             }
         }
 		
