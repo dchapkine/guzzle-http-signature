@@ -1,0 +1,18 @@
+{
+    "name": "dchapkine/guzzle-http-signature",
+    "description": "Guzzle plugin to sign HTTP requests using hmac ... Or, in another words, it is a PHP 5.3+ port of https://github.com/joyent/node-http-signature library (the request signing part only)",
+    "require": {
+		"guzzle/guzzle": "*"
+    },
+	"autoload": {
+        "psr-0": {
+			"GuzzleHttpSignature": "src/"
+		}
+    },
+    "authors": [
+        {
+            "name": "Dmitri Chapkine",
+            "email": "dmitri.chapkine@gmail.com"
+        }
+    ]
+}
