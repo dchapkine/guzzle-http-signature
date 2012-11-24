@@ -111,3 +111,11 @@ The recommended way to install guzzle-http-signature is through [Composer](http:
 	
 	
 	```
+
+
+Links
+-----
+
+@see https://github.com/joyent/node-http-signature/blob/master/http_signing.md
+@see http://joyent.com/blog/a-bit-more-about-the-new-joyent-cloud-api/
+
